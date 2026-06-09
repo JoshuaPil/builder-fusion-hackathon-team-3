@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "skills": {
+    "unzip": {
+      "source": "BuilderIO/builder-agent-skills",
+      "sourceType": "github",
+      "skillPath": "unzip/SKILL.md",
+      "computedHash": "3257dafa9d15b8d586770117ffc88b6281ad8595b80c8a9814224632eb755c6c"
+    }
+  }
+}
